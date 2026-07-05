@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0007_000.yaml, hash: 'sha256:3a962c9096d9fc666a3def2d04f6122d8b950bd656a23fc2562c54236807b656'}
-  - {seq: 1, filename: KR6i0007_001.yaml, hash: 'sha256:7f14c33d61944ff42053c2f31f4701d6d458cb835f68954e49a53d9753a7f36a'}
+  - {seq: 1, filename: KR6i0007_001.yaml, hash: 'sha256:c112a035203e10ec83574ada6c62dae7fbd711a9dcca06493955b76dc0764cde'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0007_001.markers.yaml, hash: 'sha256:491229ac1f8d304144f255c4c5f4b0f48ed9a37378dbc50b0580b11e30eee93d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0007_000.markers.yaml, hash: 'sha256:486390fe4b3f86f5898f95be68959c2df8961c5fcf48227997878c6cbe350d61'}
+  - {seq: 1, role: markers, filename: assets/KR6i0007_001.markers.yaml, hash: 'sha256:a4a1060cfc9058a77bcafcaa3c80e626fab3a8a5d7b3538e8d4a58c31e19cc3d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 八佛名號經
   type: juan
   level: 1
-hash: sha256:c5c0299b2a5b4ecf012ed4d9be003e8f99ffb137a106946131f6267e15f27d1e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f9d81e7c7eff31c575e1ec3bbbe5d1251077113fadad725632cbac8f5559dab9
